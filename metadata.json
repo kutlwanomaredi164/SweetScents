@@ -1,0 +1,7 @@
+{
+  "name": "Sweet Scents Floral Boutique",
+  "description": "Modern luxury floral boutique serving Johannesburg and Pretoria with bespoke hand-tied bouquets and personalized floral gifts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
